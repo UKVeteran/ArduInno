@@ -14,6 +14,12 @@ Where **Arduino** meets **Innovation**! This repository is a collection of creat
 - 🎨 **LED & Display Systems**
 - 🎓 **STEM Learning Projects**
 
+
+
+![lesson](https://github.com/user-attachments/assets/6a0de49e-13f0-4267-8543-e32518d714bb)
+
+
+
 ---
 
 ## 🌐 **Getting Started**
